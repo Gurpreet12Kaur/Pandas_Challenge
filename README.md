@@ -15,6 +15,7 @@ REPORT
 
 
 Summarises the analysis (5 points)
+
 School Performance by Year Level: 
 Across all year levels, Bailey High School frequently surpasses other schools in math. 
 Math test results at Holden High School show a considerable increase from Year 9 to Year 10.
@@ -28,6 +29,7 @@ In schools with fewer students, the overall passing rate is higher. Schools wit
 
 
 Draws two correct conclusions
+
 1. School Spending Impact: The investigation shows that the amount of money spent on education for each student has a major impact on how well students do.
 Average math and reading test scores as well as overall passing rates tend to be higher in schools with lower per-student spending. This conclusion implies that improved academic results may result from focused expenditures in student learning and effective resource allocation.
 
