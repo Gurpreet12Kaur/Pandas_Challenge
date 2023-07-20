@@ -6,9 +6,14 @@ By carefully examining this vast dataset, I aim to provide valuable insights to 
 This data-driven approach will help shape educational policies, optimize resource allocation, and ultimately enhance the overall quality of education in our community. 
 My role as the Chief Data Scientist holds the key to empowering local leaders to make informed decisions, improve student outcomes, and create a promising future for our schools. I am committed to contributing my expertise and diligence to drive positive change and achieve a meaningful impact in our educational landscape.
 I have done the best I could, I couldn't finish the assessment as I wasn't too sure, the parts I didn't were:
+
   Scores by School Spending
+  
   Scores by School Size
+  
   Scores by School Type
+
+  
 I also got help from the BSC, whoever helped me did a really good job. after I received there help I did always go back over the code to make sure i understand it.
 
 REPORT
