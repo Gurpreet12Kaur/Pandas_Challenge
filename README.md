@@ -12,6 +12,8 @@ I have done the best I could, I couldn't finish the assessment as I wasn't too s
 I also got help from the BSC, whoever helped me did a really good job. after I received there help I did always go back over the code to make sure i understand it.
 
 REPORT
+
+
 Summarises the analysis (5 points)
 School Performance by Year Level: 
 Across all year levels, Bailey High School frequently surpasses other schools in math. 
