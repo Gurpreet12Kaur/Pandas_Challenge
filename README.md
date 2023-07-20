@@ -1,12 +1,15 @@
 # Pandas_Challenge
 As the newly appointed Chief Data Scientist for our local government, my primary responsibility is to aid the school board and mayor in making strategic decisions concerning school budgets and priorities.
+
 My first task involves conducting an in-depth analysis of the area-wide standardized test results. 
 With access to comprehensive data, including student math and reading scores and school-specific information, I will identify and highlight significant trends in school performance. 
+
 By carefully examining this vast dataset, I aim to provide valuable insights to education policymakers and school administrators. 
 This data-driven approach will help shape educational policies, optimize resource allocation, and ultimately enhance the overall quality of education in our community. 
-My role as the Chief Data Scientist holds the key to empowering local leaders to make informed decisions, improve student outcomes, and create a promising future for our schools. I am committed to contributing my expertise and diligence to drive positive change and achieve a meaningful impact in our educational landscape.
-I have done the best I could, I couldn't finish the assessment as I wasn't too sure, the parts I didn't were:
 
+My role as the Chief Data Scientist holds the key to empowering local leaders to make informed decisions, improve student outcomes, and create a promising future for our schools. I am committed to contributing my expertise and diligence to drive positive change and achieve a meaningful impact in our educational landscape.
+
+I have done the best I could, I couldn't finish the assessment as I wasn't too sure how to the parts above:
   Scores by School Spending
   
   Scores by School Size
@@ -14,7 +17,7 @@ I have done the best I could, I couldn't finish the assessment as I wasn't too s
   Scores by School Type
 
   
-I also got help from the BSC, whoever helped me did a really good job. after I received there help I did always go back over the code to make sure i understand it.
+I also got help from the BSC, whoever helped me did a really good job. After I received their help I did always go back over the code to make sure I understand it.
 
 REPORT
 
